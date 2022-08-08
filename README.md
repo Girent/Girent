@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Girent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ASP .net, structure data and algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/sergei-shumilov-1a2640138/
+Professional Summary.
+Motivated to solve a problem of any level, by any available methods.
+Proficient in Ukrainian, Russian and English read tech document level.
 
-<!---
-Girent/Girent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soft Skills:
+• Time management.
+• Teamwork skills.
+• Purposefulness and the ability to bring what has been started to the end.
+• Proactivity.
+• Communication skills.
+
+Programming experience: 
+• Development of highly specialized software for the internal interests of the company
+• Support for web applications written in ASP.Net core, Node js, WordPress
+• Development of mobile games on Unity for more than 2 years (No commercial experience)
+• There is an experience of development on the .net core platform
