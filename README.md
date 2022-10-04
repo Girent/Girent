@@ -12,5 +12,5 @@ Soft Skills:
 Programming experience: 
 • Development of highly specialized software for the internal interests of the company
 • Support for web applications written in ASP.Net core, Node js, WordPress
-• Development of mobile games on Unity for more than 2 years (No commercial experience)
+• Development of mobile games on Unity
 • There is an experience of development on the .net core platform
